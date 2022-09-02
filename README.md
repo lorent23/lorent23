@@ -8,6 +8,6 @@
 
 ### Connect with me:
 
-[![website](facebook.png)](https://www.facebook.com/lorent.hasanllari.3/)
+[![website](facebook.jpeg)](https://www.facebook.com/lorent.hasanllari.3/)
 &nbsp;&nbsp;
-[![website](linkedin.png)](https://www.linkedin.com/in/lorent-hasanllari23/)
+[![website](linkedin.jpeg)](https://www.linkedin.com/in/lorent-hasanllari23/)
