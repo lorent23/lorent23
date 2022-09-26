@@ -1,4 +1,4 @@
-# Hi there, I'm Lorent a FrontEnd Developer 👋
+# Hi there, I'm Lorent a Web Developer 👋
 
 - I'm currently working as a web developer at FIRST System Integrator & Engineering Solution
 - 🌱 I’m currently learning everything 🤣
