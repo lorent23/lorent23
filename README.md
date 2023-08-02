@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: To become Full-Stack
 - ⚡ Open for projects and collaborations, and eager to learn
-  -Very good knowledge on React,Node JS,Typescript,JSX,Angular
+-  Very good knowledge on React,Node JS,Typescript,JSX,Angular
 
 ### Connect with me:
 
