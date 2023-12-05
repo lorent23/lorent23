@@ -1,6 +1,6 @@
-# Hi there, I'm Lorent a Web Developer 👋
+# Hi there, I'm Lorent a Web Developer & Penetration Tester 👋
 
-- I'm currently working as a web developer at FIRST CyberSecurity & Engineering Solution
+- I'm currently working as a web developer & penetration tester at FIRST CyberSecurity & Engineering Solution
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: To become Full-Stack
 - ⚡ Open for projects and collaborations, and eager to learn
