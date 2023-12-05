@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: To become Full-Stack
 - ⚡ Open for projects and collaborations, and eager to learn
--  Very good knowledge on React,Node JS,Typescript,Angular,C#,Cloud,Dockers
+-  Very good knowledge on React,Node JS,Cloud,Dockers
 
 ### Connect with me:
 
