@@ -2,7 +2,7 @@
 
 - I'm currently working as a web developer & penetration tester at FIRST CyberSecurity & Engineering Solution
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: To become Full-Stack
+- 🥅 2024 Goals: To become Full-Stack
 - ⚡ Open for projects and collaborations, and eager to learn
 -  Very good knowledge on React,Node JS,Next,Astro,Cloud,Dockers
 
