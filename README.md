@@ -10,6 +10,4 @@
 ---
 
 ### 🔗 Connect with me:
-
-[![facebook](facebook.jpeg)](https://www.facebook.com/lorent.hasanllari.3/)  
 [![linkedin](linkedin.jpeg)](https://www.linkedin.com/in/lorent-hasanllari23/)  
