@@ -1,13 +1,15 @@
-# Hi there, I'm Lorent a Web Developer & Penetration Tester 👋
+# Hi there, I'm Lorent — Cybersecurity Engineer & Web Developer 👋
 
-- I'm currently working as a web developer & penetration tester at FIRST CyberSecurity & Engineering Solution
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: To become Full-Stack
-- ⚡ Open for projects and collaborations, and eager to learn
--  Very good knowledge on React,Node JS,Next,Astro,Cloud,Dockers
+- 🔐 Currently working as a **Cybersecurity Engineer** at **Sky Express Albania**  
+- 💻 Previous experience as a **Information Security Engineer & Penetration Tester** at **FIRST Cyber Security & Engineering Solutions**  
+- 🌱 Constantly learning and exploring new tools in **cloud, security engineering, and full-stack development**  
+- 🥅 2025 Goals: Advance in **security architecture design** and contribute to **open-source cybersecurity projects**  
+- 🤝 Open for **projects, collaborations, and freelance opportunities**  
+- ⚡ Skilled in **React, Node.js, Next.js, Astro, Cloud, Docker**, and a wide range of **cybersecurity tools (EDR, DLP, WAF, vulnerability assessments, red team analysis, incident response)**  
 
-### Connect with me:
+---
 
-[![website](facebook.jpeg)](https://www.facebook.com/lorent.hasanllari.3/)
-&nbsp;&nbsp;
-[![website](linkedin.jpeg)](https://www.linkedin.com/in/lorent-hasanllari23/)
+### 🔗 Connect with me:
+
+[![facebook](facebook.jpeg)](https://www.facebook.com/lorent.hasanllari.3/)  
+[![linkedin](linkedin.jpeg)](https://www.linkedin.com/in/lorent-hasanllari23/)  
